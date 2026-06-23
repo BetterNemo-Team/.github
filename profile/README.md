@@ -1,5 +1,5 @@
-# BetterNemo-Team & BlinkExtLoader-Team
+# BetterNemo-Team
 
-欢迎来到 BetterNemo-Team & BlinkExtLoader-Team！
+欢迎来到 BetterNemo-Team！
 
-Welcome to BetterNemo-Team & BlinkExtLoader-Team!
+Welcome to BetterNemo-Team!
